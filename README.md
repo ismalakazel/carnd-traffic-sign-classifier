@@ -115,8 +115,8 @@ Bellow are the accuracy values reach with the model above:
 #
 | Accuracy        | Value  |        
 | ------------- |:-------------:
-| Valid |  1.0 |
-| Train** |  0.99 |
+| Train |  1.0 |
+| Valid |  0.99 |
 | Test |  0.98 |
 
 #
