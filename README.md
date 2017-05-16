@@ -5,7 +5,6 @@
 Build a convolution neural network architecture capable of classifying german traffic signs. At a minimum, the architecture should be able to achieve 93% accuracy on the validation set. 
 
 Project source: [CarND-Traffic-Sign-Classifier-Project](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
-My solution:
 
 #### Data Set Summary & Exploration
 #
