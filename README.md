@@ -84,7 +84,7 @@ The AlexNet model was experimented during this project reaching arounce 93% accu
 
 So based on the LetNet I made an experiement by increasing the number of convolution layers to 4 appliying max pooling only on the second and fourth layers. I also added one more dense layer to the model. Though I studied different model architectures, this one was also about learning by intuition.
 
-### 2.5 Model Training
+### Model Training
 #
 #
 | Parameter        | Description  |        
@@ -120,6 +120,6 @@ Bellow are the accuracy values reach with the model above:
 | Test |  0.98 |
 
 #
-### 3. Conclusion
+### Conclusion
 #
 This project was a good way to get some intuition as well as getting more accostumed with deep learning terminologies. Going further I want to experiment with other models, trying different parameters and regularizations techniques. One take away is that aquiring good data and preparing it is good portion of extrating good predictions out of a deep neural network.
